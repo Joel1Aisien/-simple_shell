@@ -1,4 +1,4 @@
-#include "main."
+#include "main.h"
 
 /**
  * without_comment - deletes comments from the input
